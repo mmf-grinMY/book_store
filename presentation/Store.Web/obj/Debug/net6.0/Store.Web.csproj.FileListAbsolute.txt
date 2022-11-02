@@ -24,3 +24,8 @@ C:\Users\Максим\repos\book_store\presentation\Store.Web\obj\Debug\net6.0\r
 C:\Users\Максим\repos\book_store\presentation\Store.Web\obj\Debug\net6.0\Store.Web.pdb
 C:\Users\Максим\repos\book_store\presentation\Store.Web\obj\Debug\net6.0\Store.Web.genruntimeconfig.cache
 C:\Users\Максим\repos\book_store\presentation\Store.Web\obj\Debug\net6.0\ref\Store.Web.dll
+C:\Users\Максим\repos\book_store\presentation\Store.Web\bin\Debug\net6.0\Store.dll
+C:\Users\Максим\repos\book_store\presentation\Store.Web\bin\Debug\net6.0\Store.pdb
+C:\Users\Максим\repos\book_store\presentation\Store.Web\obj\Debug\net6.0\Store.Web.csproj.CopyComplete
+C:\Users\Максим\repos\book_store\presentation\Store.Web\bin\Debug\net6.0\Store.Memory.dll
+C:\Users\Максим\repos\book_store\presentation\Store.Web\bin\Debug\net6.0\Store.Memory.pdb

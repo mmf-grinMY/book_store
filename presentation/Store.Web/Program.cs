@@ -1,7 +1,14 @@
+using Store;
+using Store.Memory;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+
+var services = builder.Services;
+
+services.AddControllersWithViews();
+services.AddSingleton<IBookRepository, BookRepository>();
 
 var app = builder.Build();
 

@@ -1,0 +1,15 @@
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\bin\Debug\net6.0\Store.Memory.deps.json
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\bin\Debug\net6.0\Store.Memory.dll
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\bin\Debug\net6.0\Store.Memory.pdb
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\bin\Debug\net6.0\Store.dll
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\bin\Debug\net6.0\Store.pdb
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.csproj.AssemblyReference.cache
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.AssemblyInfoInputs.cache
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.AssemblyInfo.cs
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.csproj.CoreCompileInputs.cache
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.csproj.CopyComplete
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.dll
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\refint\Store.Memory.dll
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\Store.Memory.pdb
+C:\Users\Максим\repos\book_store\infrastructure\Store.Memory\obj\Debug\net6.0\ref\Store.Memory.dll
