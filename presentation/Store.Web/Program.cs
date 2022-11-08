@@ -9,6 +9,7 @@ var services = builder.Services;
 
 services.AddControllersWithViews();
 services.AddSingleton<IBookRepository, BookRepository>();
+services.AddSingleton<BookService>();
 
 var app = builder.Build();
 
